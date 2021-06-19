@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(252, 242, 237);
+}
+.margins {
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.paragraphe {
+    text-align: center;
+    text-align: justify;
+    margin-bottom: 5vw;
+    padding: 3vw;
+    background-color: white;
+}
+.paragraphe1 {
+text-align: center;
+font-size: 30px;
+background-color: white;
+margin-left: 7vw;
+margin-right: 7vw;
+padding: 2vw;
+}
+.paragraphe2 {
+    text-align: left;
+    background-color: white;
+    margin-top: 3vw;
+    margin-right: 7vw;
+    margin-left: 7vw;
+    padding: 3vw;
+}
+.galerie {
+    text-align: center;
+    margin-top: 3vw;
+}
+.image {
+    width: 20%;
+    height: auto;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+.conteneur {
+    text-align: right;
+}
+button {
+    padding: 3px 7px;
+    font-size: 15px;
+    color: black;
+    border-radius: 2px;
+    margin-left: 2vw;
+}
+.copyright {
+    color:white;
+}
