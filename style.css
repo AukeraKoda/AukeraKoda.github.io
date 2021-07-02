@@ -7,6 +7,12 @@ body {
 }
 .sous-titre {
     color: white;
+    text-align: left;
+    margin-top: 8vw;
+    font-size: 30px;
+}
+.sous-titre1 {
+    color: white;
     text-align: center;
     margin-top: 8vw;
     font-size: 30px;
@@ -19,11 +25,25 @@ body {
     padding: 3vw;
     background-color: white;
 }
+.paragraphe1 {
+    text-align: center;
+    text-align: justify;
+    margin-top: 4vw;
+    margin-bottom: 10vw;
+    padding: 6vw;
+    background-color: white;
+}
 .galerie {
     text-align: center;
     margin-top: 6vw;
 }
+.galerie1 {
+    
+}
 .image {
+}
+.image1 {
+    text-align: left;
 }
 .conteneur {
     text-align: center;
@@ -42,10 +62,29 @@ body {
     text-align: center;
     margin-top: 10vw;
 }
+.conteneur4 {
+    text-align: center;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}
+.conteneur5 {
+    text-align: center;
+    margin-right: 8vw;
+}
+.conteneur6 {
+    text-align: center;
+    margin-left: 4vw;
+    margin-top: -1.2vw;
+}
 button {
     padding: 20px 20px;
     font-size: 50px;
     color: white;
+}
+b {
+    padding: 10px 10px;
+    color: white;
+    margin-top: 100vw;
 }
 .copyright {
     color:white;
