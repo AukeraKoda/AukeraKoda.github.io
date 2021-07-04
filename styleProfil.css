@@ -11,6 +11,8 @@ body {
     margin-bottom: 5vw;
     padding: 4vw;
     background-color: white;
+    outline: 4px solid black;
+    outline-offset: -2px;
 }
 .paragraphe1 {
     text-align: center;
@@ -20,6 +22,7 @@ body {
     background-size: 1500px 400px;
     background-repeat: no-repeat;
     padding: 2vw;
+    border: 3px solid black;
 }
 .paragraphe2 {
     text-align: left;
@@ -30,11 +33,14 @@ body {
     padding: 3vw;
     font-size: 30px;
     text-align: center;
+    outline: 1px solid black;
+    outline-offset: -7px;
 }
 .paragraphe3 {
     background-color: white;
     padding: 1vw;
     font-size: 20px;
+    border: 3px solid black;
 }
 .galerie {
     text-align: center;

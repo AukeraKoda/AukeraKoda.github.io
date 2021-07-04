@@ -11,6 +11,8 @@ body {
     margin-bottom: 5vw;
     padding: 4vw;
     background-color: white;
+    outline: 4px solid black;
+    outline-offset: -2px;
 }
 .paragraphe1 {
     text-align: center;
@@ -19,6 +21,8 @@ body {
     margin-left: 7vw;
     margin-right: 7vw;
     padding: 2vw;
+    outline: 3px solid black;
+    outline-offset: -10px;
 }
 .paragraphe2 {
     text-align: left;
@@ -27,6 +31,8 @@ body {
     margin-right: 7vw;
     margin-left: 7vw;
     padding: 3vw;
+    outline: 1px solid black;
+    outline-offset: -7px;
 }
 .galerie {
     text-align: center;
@@ -46,6 +52,9 @@ body {
     margin-left: 3vw;
     margin-right: 3vw;
     margin-bottom: 5vw;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 4px;
 }
 .conteneur {                /*bandeau*/
     text-align: right;

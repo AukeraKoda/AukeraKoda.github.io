@@ -47,11 +47,11 @@ body {
 }
 .conteneur {
     text-align: center;
-    margin-bottom: 4vw;
+    margin-bottom: 5vw;
 }
 .conteneur1 {
-    text-align: center;
-    margin-bottom: 10vw;
+    text-align: left;
+    margin-top: -3vw;
 }
 .conteneur2 {
     text-align: center;
@@ -63,9 +63,8 @@ body {
     margin-top: 10vw;
 }
 .conteneur4 {
-    text-align: center;
-    margin-top: 6vw;
-    margin-bottom: 6vw;
+    text-align: left;
+    margin-top: 10.6vw;
 }
 .conteneur5 {
     text-align: center;
@@ -80,11 +79,17 @@ button {
     padding: 20px 20px;
     font-size: 50px;
     color: white;
+    background-color: black;
+    border-radius: 2px;
+    border: 2px solid white;
+    cursor: pointer;
 }
 b {
     padding: 10px 10px;
     color: white;
-    margin-top: 100vw;
+}
+c {
+    color: white;
 }
 .copyright {
     color:white;
