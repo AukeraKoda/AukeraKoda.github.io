@@ -16,6 +16,7 @@ body {
     text-align: center;
     margin-top: 8vw;
     font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraphe {
     text-align: center;
@@ -24,6 +25,7 @@ body {
     margin-bottom: 10vw;
     padding: 3vw;
     background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraphe1 {
     text-align: center;
@@ -83,6 +85,7 @@ button {
     border-radius: 2px;
     border: 2px solid white;
     cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 b {
     padding: 10px 10px;

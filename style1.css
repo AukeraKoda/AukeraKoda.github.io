@@ -34,12 +34,19 @@ body {
     outline: 1px solid black;
     outline-offset: -7px;
 }
+.titre {                    /*bandeau*/
+    margin-top: -3vw;
+    margin-left: 5vw;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+}
 .galerie {
     text-align: center;
     margin-top: 3vw;
 }
 .galerie2 {                 /*bandeau*/
     margin-left: -2vw;
+    margin-top: -0.5vw;
 }
 .image2 {                   /*bandeau*/
     margin-top: -3vw;
@@ -64,6 +71,8 @@ button {
     padding: 3px 7px;
     font-size: 15px;
     color: black;
+    background-color: rgb(243, 239, 235);
+    border: 2px solid black;
     border-radius: 2px;
     margin-left: 2vw;
 }
