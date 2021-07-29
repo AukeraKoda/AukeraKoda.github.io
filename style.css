@@ -19,13 +19,15 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraphe {
-    text-align: center;
-    text-align: justify;
     margin-top: 4vw;
     margin-bottom: 10vw;
-    padding: 3vw;
-    background-color: white;
+    padding: 5vw;
+    background-color: rgb(241, 241, 241);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    white-space: pre-line;
+    text-align: center;
+    font-weight: bold;
 }
 .paragraphe1 {
     text-align: center;
