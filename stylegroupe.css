@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(252, 242, 237);
+}
+.margins {
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.paragraphe {               /*bandeau*/
+    text-align: center;
+    text-align: justify;
+    margin-bottom: 5vw;
+    padding: 4vw;
+    background-color: white;
+    outline: 4px solid black;
+    outline-offset: -2px;
+}
+.paragraphe1 {
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    padding: 2vw;
+    outline: 3px solid black;
+    outline-offset: -10px;
+}
+.paragraphe2 {
+    text-align: left;
+    background-color: white;
+    margin-top: 3vw;
+    margin-right: 7vw;
+    margin-left: 7vw;
+    padding: 3vw;
+    outline: 1px solid black;
+    outline-offset: -7px;
+}
+.titre {                    /*bandeau*/
+    margin-top: -3vw;
+    margin-left: 5vw;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.galerie {
+    text-align: center;
+    margin-top: 3vw;
+}
+.galerie2 {                 /*bandeau*/
+    margin-left: -2vw;
+    margin-top: -0.5vw;
+}
+.image2 {                   /*bandeau*/
+    margin-top: -2.5vw;
+    height: auto;
+    width: 8%;
+}
+.image {
+    width: 20%;
+    height: auto;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-bottom: 5vw;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 4px;
+}
+.conteneur {                /*bandeau*/
+    text-align: right;
+    margin-top: -5vw;
+}
+button {
+    padding: 3px 7px;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(243, 239, 235);
+    border: 2px solid black;
+    border-radius: 2px;
+    margin-left: 2vw;
+}
+/*.copyright {
+    color:white;
+}*/

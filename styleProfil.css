@@ -13,10 +13,12 @@ body {
     background-color: white;
     outline: 4px solid black;
     outline-offset: -2px;
+    background-image: url(bandeau.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .paragraphe1 {
     text-align: center;
-    text-align: ;
     font-size: 30px;
     background-image: url(design/bandeau.jpg);
     background-size: 1500px 400px;
@@ -55,9 +57,6 @@ body {
     text-align: center;
     margin-top: 3vw;
 }
-.galerie1 {
-    
-}
 .galerie2 {                 /*bandeau*/
     margin-left: -2vw;
 }
@@ -89,6 +88,8 @@ button {
     padding: 3px 7px;
     font-size: 15px;
     color: black;
+    background-color: rgb(243, 239, 235);
+    border: 2px solid black;
     border-radius: 2px;
     margin-left: 2vw;
 }
