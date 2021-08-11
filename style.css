@@ -37,12 +37,51 @@ body {
     padding: 6vw;
     background-color: white;
 }
+.paragraphe2 {
+    margin-top: 4vw;
+    margin-bottom: 10vw;
+    padding: 5vw;
+    background-color: rgb(241, 241, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    white-space: pre-line;
+    text-align: left;
+    text-align: justify;
+    font-weight: bold;
+}
+.paragraphe3 {
+    margin-top: 4vw;
+    
+    margin-left: 15vw;
+    padding: 5vw;
+    background-color: rgb(241, 241, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    white-space: pre-line;
+    text-align: left;
+    text-align: justify;
+    font-weight: bold;
+}
 .galerie {
     text-align: center;
     margin-top: 6vw;
 }
+.galerie2 {
+    text-align: center;
+    margin-top: -10vw;
+}
 .image1 {
     text-align: left;
+}
+.image2 {
+    float: left;
+    width: 250px;
+}
+.image3 {
+    width: 20%;
+    height: auto;
+    float: left;
+    padding: 2vw;
 }
 .conteneur {
     text-align: center;
@@ -73,6 +112,10 @@ body {
     text-align: center;
     margin-left: 4vw;
     margin-top: -1.2vw;
+}
+.conteneur7 {
+    text-align: left;
+    margin-top: 30vw;
 }
 button {
     padding: 20px 20px;
