@@ -43,6 +43,15 @@ body {
     font-size: 20px;
     border: 3px solid black;
 }
+.paragraphe4 {
+    text-align: center;
+    font-size: 30px;
+    background-image: url(design/oc.jpg);
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    padding: 2vw;
+    border: 3px solid black;
+}
 .sousparagraphe {
     text-align: left;
     background-color: white;

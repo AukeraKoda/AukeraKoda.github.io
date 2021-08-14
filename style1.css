@@ -51,6 +51,9 @@ body {
     margin-left: -2vw;
     margin-top: -0.5vw;
 }
+.galerie3 {
+    text-align: center;
+}
 .image2 {                   /*bandeau*/
     margin-top: -2.5vw;
     height: auto;
@@ -66,6 +69,15 @@ body {
     border-radius: 4px;
     padding: 4px;
 }
+
+.image3 {
+    width: 20%;
+    height: auto;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-bottom: 5vw;
+    padding: 4px;
+}
 .conteneur {                /*bandeau*/
     text-align: right;
     margin-top: -5vw;
@@ -73,6 +85,11 @@ body {
 .conteneur1 {
     text-align: center;
     margin-top: 3vw; 
+}
+.conteneur2 {
+    text-align: center;
+    margin-left: -2vw;
+    margin-top: 3vw;
 }
 button {
     padding: 3px 7px;
