@@ -36,6 +36,38 @@ body {
     padding: 3vw;
     outline: 1px solid black;
     outline-offset: -7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragraphe3 {
+    text-align: left;
+    text-align: justify;
+    margin-right: 30vw;
+    margin-bottom: 2vw;
+    padding: 1vw;
+    white-space: pre-line;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(213, 253, 244);
+    border-top: solid;
+}
+.paragraphe4 {
+    text-align: right;
+    margin-left: 30vw;
+    margin-bottom: 2vw;
+    padding: 1vw;
+    white-space: pre-line;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 247, 235);
+    border-top: solid;
+}
+.paragraphe5 {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.date {
+    text-align: left;
+    margin-top: 6vw;
+    margin-bottom: 2vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .titre {                    /*bandeau*/
     margin-top: -3vw;
