@@ -62,6 +62,17 @@ body {
     text-align: justify;
     font-weight: bold;
 }
+.paragraphe4 {
+    margin-top: 4vw;
+    margin-bottom: 10vw;
+    padding: 5vw;
+    background-color: rgb(241, 241, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    white-space: pre-line;
+    text-align: left;
+    font-weight: bold;
+}
 .galerie {
     text-align: center;
     margin-top: 6vw;
