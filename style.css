@@ -105,13 +105,11 @@ body {
     margin-top: 10.6vw;
 }
 .conteneur5 {
-    text-align: center;
-    margin-right: 8vw;
+    text-align: left;
 }
 .conteneur6 {
-    text-align: center;
-    margin-left: 4vw;
-    margin-top: -1.2vw;
+    text-align: right;
+    margin-top: -0.8vw;
 }
 .conteneur7 {
     text-align: left;
@@ -129,7 +127,7 @@ button {
 }
 b {
     padding: 10px 10px;
-    color: white;
+    color: black;
 }
 c {
     color: white;
