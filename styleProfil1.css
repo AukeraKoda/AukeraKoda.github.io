@@ -1,0 +1,141 @@
+body {
+    background-color: rgb(252, 242, 237);
+}
+/*.sousparagraphe:after {
+    animation: grain 8s steps(10) infinite;
+    background-image: url(design/noise.jpg);
+    content: "";
+    height: 150%;
+    left: -50%;
+    opacity: 0.3;
+    position: fixed;
+    top: -100%;
+    width: 200%;
+}
+@keyframes grain {
+    0%, 100% { transform:translate(0, 0) }
+    10% { transform:translate(-5%, -10%) }
+    20% { transform:translate(-15%, 5%) }
+    30% { transform:translate(7%, -25%) }
+    40% { transform:translate(-5%, 25%) }
+    50% { transform:translate(-15%, 10%) }
+    60% { transform:translate(15%, 0%) }
+    70% { transform:translate(0%, 15%) }
+    80% { transform:translate(3%, 35%) }
+    90% { transform:translate(-10%, 10%) }
+  }*/
+.margins {
+    margin-left: 1vw;
+    margin-right: 1vw;
+    filter: invert(100%);
+}
+.paragraphe {               /*bandeau*/
+    text-align: center;
+    text-align: justify;
+    margin-bottom: 5vw;
+    padding: 4vw;
+    background-color: white;
+    outline: 4px solid black;
+    outline-offset: -2px;
+    background-image: url(bandeau.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.paragraphe1 {
+    text-align: center;
+    font-size: 30px;
+    background-image: url(design/bandeau.jpg);
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    padding: 2vw;
+    border: 3px solid black;
+    filter: invert(100%);
+}
+.paragraphe2 {
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-top: 5vw;
+    padding: 2vw;
+    outline: 3px solid black;
+    outline-offset: -10px;
+}
+.paragraphe3 {
+    background-color: white;
+    padding: 1vw;
+    font-size: 20px;
+    border: 3px solid black;
+}
+.paragraphe4 {
+    text-align: center;
+    font-size: 30px;
+    background-image: url(design/oc.jpg);
+    background-size: 1500px 400px;
+    background-repeat: no-repeat;
+    padding: 2vw;
+    border: 3px solid black;
+}
+.sousparagraphe {
+    text-align: left;
+    background-color: white;
+    margin-top: 3vw;
+    margin-right: 7vw;
+    margin-left: 7vw;
+    padding: 3vw;
+    outline: 1px solid black;
+    outline-offset: -7px;
+}
+.galerie {
+    text-align: center;
+    margin-top: 3vw;
+    filter: invert(100%);
+}
+.galerie2 {                 /*bandeau*/
+    margin-left: -2vw;
+    filter: invert(100%);
+}
+.image {
+    width: 20%;
+    height: auto;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-bottom: 5vw;
+}
+.image1 {
+    height: auto;
+    width: 8%;
+    text-align: left;
+    filter: invert(100%);
+}
+.image2 {                   /*bandeau*/
+    margin-top: -3vw;
+    height: auto;
+    width: 8%;
+}
+.texte {
+    margin-top: -3vw;
+}
+.conteneur {                /*bandeau*/
+    text-align: right;
+    margin-top: -5vw;
+    filter: invert(100%);
+}
+button {
+    padding: 3px 7px;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(243, 239, 235);
+    border: 2px solid black;
+    border-radius: 2px;
+    margin-left: 2vw;
+}
+/*.copyright {
+    color:white;
+}
+
+a href="04_02_b45.html">
+    <img class="image" src="jpeg/b45">
+</a>
+*/
