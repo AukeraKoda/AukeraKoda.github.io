@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(252, 242, 237);
+    background-color: rgb(5, 2, 26);
+    filter: invert(100%);
 }
 /*.sousparagraphe:after {
     animation: grain 8s steps(10) infinite;
