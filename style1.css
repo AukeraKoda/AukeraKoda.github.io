@@ -133,6 +133,11 @@ button {
     border-radius: 2px;
     margin-left: 2vw;
 }
+.desc {
+    margin-top: -5vw;
+    margin-left: 5vw;
+    margin-bottom: 6vw;
+}
 /*.copyright {
     color:white;
 }*/

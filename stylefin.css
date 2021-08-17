@@ -1,13 +1,13 @@
 body {
     background-color: black;
 }
-body:after {
+/*body:after {
     animation: grain 8s steps(10) infinite;
     background-image: url(design/noise.jpg);
     content: "";
-    height: 150%;
+    height: 500%;
     left: -50%;
-    opacity: 0.3;
+    opacity: 0.2;
     position: fixed;
     top: -100%;
     width: 200%;
@@ -23,7 +23,7 @@ body:after {
     70% { transform:translate(0%, 15%) }
     80% { transform:translate(3%, 35%) }
     90% { transform:translate(-10%, 10%) }
-  }
+  }*/
 .margins {
     margin-left: 7vw;
     margin-right: 7vw;
