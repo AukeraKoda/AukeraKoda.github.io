@@ -25,6 +25,14 @@ body {
     font-size: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.sous-titre3 {
+    color: white;
+    text-align: center;
+    margin-top: 4vw;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: -5vw;
+}
 .paragraphe {
     margin-top: 4vw;
     margin-bottom: 10vw;
