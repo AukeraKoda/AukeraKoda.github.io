@@ -133,21 +133,15 @@ button {
     border-radius: 2px;
     margin-left: 2vw;
 }
+b {
+    color: black;
+}
 .desc {
     margin-top: -5vw;
     margin-left: 5vw;
     margin-bottom: 6vw;
 }
-/*.copyright {
-    color:white;
-}*/
-
-/*<a href="videos/b66.mp4">
-                Watch this video
-</a>
-
-
-<script type="text/javascript">
+/*<script type="text/javascript">
             function autoplay(){
                 var r =confirm("Would You Like To AutoPlay Music?");
                 if (r == true) {
