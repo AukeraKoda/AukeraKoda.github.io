@@ -5,6 +5,9 @@ body {
     margin-left: 7vw;
     margin-right: 7vw;
 }
+.titre {
+    text-align: center;
+}
 .sous-titre {
     color: white;
     text-align: left;
@@ -95,6 +98,9 @@ body {
 .galerie2 {
     text-align: center;
     margin-top: -10vw;
+}
+.image {
+    text-align: center;
 }
 .image1 {
     text-align: left;
