@@ -5,6 +5,10 @@ body {
     margin-left: 2vw;
     margin-right: 2vw;
 }
+.margins1 {
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+}
 .titre {
     text-align: center;
 }
@@ -139,6 +143,7 @@ body {
 .conteneur5 {
     text-align: left;
     margin-left: -6vw;
+    margin-top: 5vw;
 }
 .conteneur6 {
     text-align: right;
